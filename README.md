@@ -1,3 +1,8 @@
+Learnt this from The Clever Programmer 
+YouTube link of The Clever Programmer : https://www.youtube.com/c/CleverProgrammer
+
+The Web is live at : https://covid-ea0e8.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
