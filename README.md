@@ -2,7 +2,7 @@ The Web is live at : https://covid-ea0e8.firebaseapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Thanks to Clever Programmer 
+
 
 ## Available Scripts
 
