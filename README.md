@@ -1,8 +1,11 @@
-The Web is live at : https://covid-ea0e8.firebaseapp.com/
+# Covid-19 Upddates
+
+### [Click Here To View The Live Site](https://covid-ea0e8.firebaseapp.com/)
+
+![Covid-19 Updates](https://firebasestorage.googleapis.com/v0/b/githubs-30fab.appspot.com/o/screencapture-covid-ea0e8-firebaseapp-2020-09-18-18_22_46.png?alt=media&token=67e1e537-f7b2-4836-a064-f75f55a30f07)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 
 ## Available Scripts
 
